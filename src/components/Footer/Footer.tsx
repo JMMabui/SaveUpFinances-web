@@ -1,4 +1,4 @@
-import { twMerge } from 'tailwind-merge';
+
 
 interface FooterLink {
   label: string;
