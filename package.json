@@ -11,13 +11,16 @@
   },
   "dependencies": {
     "@headlessui/react": "^2.2.4",
+    "@tailwindcss/vite": "^4.1.11",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.0",
     "saveupfinances-web": "file:",
-    "tailwind-merge": "^3.3.0"
+    "tailwind-merge": "^3.3.0",
+    "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
+    "@types/node": "^24.1.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "@vitejs/plugin-react": "^4.4.1",
